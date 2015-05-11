@@ -1,6 +1,5 @@
 # Summary
 
 * Nosql
-   * aaa
    * bbb
 
