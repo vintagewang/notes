@@ -6,4 +6,5 @@
 * Java
    * [获取泛型的类型](Java/获取泛型的类型.md)
 * RocketMQ
+   * 业界同类MQ相关
 
